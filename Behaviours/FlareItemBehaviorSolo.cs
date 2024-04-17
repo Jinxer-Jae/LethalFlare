@@ -4,6 +4,16 @@ using System.Linq;
 using UnityEngine;
 using UnityEngine.VFX;
 
+/* COMMUNITY SHOUTOUTS
+ * Thanks to the following people for helping me out:
+ * 
+ * RyanTheTechMan
+ * Lordfirespeed
+ * Bobbo
+ * TKronix
+ * 
+ */
+
 /* NOTES FOR THE DEV
  * 
  * Netcode for Multiplayer
